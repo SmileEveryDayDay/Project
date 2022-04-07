@@ -1,7 +1,7 @@
 # Google Play上架
 
 ## 前期准备
-- 开发者账号注册缴费25美元并且进行认证,开通谷歌支付的话须填写收款信息。（地址：<https://play.google.com/console/developers>）
+- 开发者账号注册缴费25美元并且进行认证,开通谷歌支付的话须填写收款信息。
 - AAB文件格式的安装包（注：安装包大于150M，要采用谷歌的分包机制。参考：<https://developer.android.google.cn/guide/playcore/asset-delivery?hl=zh_cn>）
 - 签名秘钥文件
 - 图片素材
@@ -12,7 +12,8 @@
 - 上架市场需要的app资料（例如：APP名称、简介、分类、联系方式、隐私协议网页、语言翻译、分级等等）
 ## 提审
 1. 创建app
-   1、使用已经注册完成的 Google play 开发者账号登录Google Play Console
+   1、使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]
+   [1]:<https://play.google.com/console/developers>
    2、成功登录后，点击“在 Google play 中发布 android 应用 ”
 2. 开始
 3. 开始
