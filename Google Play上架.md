@@ -1,4 +1,4 @@
-# Google Play上架
+# Google Play上架基本信息配置篇
 
 ## 前期准备
 - 开发者账号注册缴费25美元并且进行认证,开通谷歌支付的话须填写收款信息。
@@ -14,34 +14,34 @@
 ### 一、创建app
 #### 1. 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]，应用名称、默认语言、应用或游戏、免费或付费根据证实情况填写。
 [1]:<https://play.google.com/console/developers> 
-![img.png](img.png)
+![img.png](image/info/img.png)
 ### 二、填写 app 信息
-   ![img_1.png](img_1.png)
+   ![img_1.png](image/info/img_1.png)
    **注：设置应用栏：应用访问权限、广告、 内容分级、 目标受众群体、 新闻应用、 新冠肺炎 (COVID-19) 接触者追踪应用和感染状况应用、 数据安全、 隐私权政策 全部必填项**
 #### 1. 应用访问权限（根据实际情况填写即可）
 ---
-![img_2.png](img_2.png)
+![img_2.png](image/info/img_2.png)
 #### 2. 广告（根据实际情况填写即可）
 ---
-![img_3.png](img_3.png)
+![img_3.png](image/info/img_3.png)
 #### 3. 内容分级（根据实际情况填写即可）
 ---
-![img_4.png](img_4.png)
+![img_4.png](image/info/img_4.png)
 #### 4. 目标受众群体（根据实际情况填写即可）
 ---
-![img_5.png](img_5.png)
+![img_5.png](image/info/img_5.png)
 #### 5. 新闻应用（根据实际情况填写即可）                                              
 ---
-![img_6.png](img_6.png)
+![img_6.png](image/info/img_6.png)
 #### 6. 新冠肺炎 (COVID-19) 接触者追踪应用和感染状况应用（根据实际情况填写即可）
 ---
-![img_7.png](img_7.png)
+![img_7.png](image/info/img_7.png)
 #### 7. 数据安全（根据实际情况填写即可，需要填写隐私协议地址）
 ---
-![img_8.png](img_8.png)
+![img_8.png](image/info/img_8.png)
 #### 8. 应用类别（根据实际情况填写即可）
 ---
-![img_9.png](img_9.png)
+![img_9.png](image/info/img_9.png)
 #### 9.主要商品详情（须注意：如果需要支持多语言的话、该处可以选择上传多个语言对应的信息）
 ---
-![img_10.png](img_10.png)
+![img_10.png](image/info/img_10.png)
