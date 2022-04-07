@@ -9,7 +9,7 @@
 ### 2、 添加凭据
 ![img_1.png](image/pay/img_1.png)
 **下载的json里面获取client_id、client_secret、redirect_uris**
-### 3、 根据client_id获取code
+### 3、 根据client_id获取Code
 **直接用浏览器访问：https://accounts.google.com/o/oauth2/auth?scope=https://www.googleapis.com/auth/androidpublisher&response_type=code&access_type=offline&redirect_uri=https://sdkapi.yallagame.com/（替换项目的域名）&client_id=(项目的client_id)**
 ### 4、 根据client_id、client_secret、redirect_uris 和 code 获取refreshcode；一个凭据只能获取一次refreshcode
 **Postman post提交：grant_type=authorization_code ；code= ； client_id= ； client_secret=  ； redirect_uri：**
