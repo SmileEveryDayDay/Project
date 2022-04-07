@@ -13,7 +13,6 @@
 ## 提审
 ### 创建app
    1. 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]，应用名称、默认语言、应用或游戏、免费或付费根据证实情况填写。
-   
     [1]:<https://play.google.com/console/developers>
     ![img.png](img.png)
 ### 填写 app 信息
