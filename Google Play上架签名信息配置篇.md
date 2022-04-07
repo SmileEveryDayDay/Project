@@ -2,21 +2,15 @@
 
 ## 前期准备
 - jdk环境变量
-- [Play Encrypt Private Key (PEPK) 工具](下载地址：https://www.gstatic.com/play-apps-publisher-rapid/signing-tool/prod/pepk.jar)
-## 提审
-### 一、创建app
-#### 1. 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][2]，应用名称、默认语言、应用或游戏、免费或付费根据证实情况填写。
-[2]:<https://play.google.com/console/developers> 
-![img.png](image/basic_info/img.png)
-### 二、填写 app 信息
-   ![img_1.png](image/basic_info/img_1.png)
-   **注：设置应用栏：应用访问权限、广告、 内容分级、 目标受众群体、 新闻应用、 新冠肺炎 (COVID-19) 接触者追踪应用和感染状况应用、 数据安全、 隐私权政策 全部必填项**
-#### 1. 应用访问权限（根据实际情况填写即可）
+- Play Encrypt Private Key (PEPK) 工具(下载地址：https://www.gstatic.com/play-apps-publisher-rapid/signing-tool/prod/pepk.jar)
+## AAB和签名文件提交
+### 一、创建内部测试版本
+**一般APP提审的流程为：内部测试-》封闭式测试-》开放式测试-》正式版发布。**
+#### 1. 更改应用签名密钥（一般会使用自己的签名秘钥，如果更改默认使用谷歌的签名密钥）
 ---
-![img_2.png](image/basic_info/img_2.png)
-#### 2. 广告（根据实际情况填写即可）
----
-![img_3.png](image/basic_info/img_3.png)
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 #### 3. 内容分级（根据实际情况填写即可）
 ---
 ![img_4.png](image/basic_info/img_4.png)
