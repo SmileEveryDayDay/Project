@@ -12,9 +12,9 @@
 - 上架市场需要的app资料（例如：APP名称、简介、分类、联系方式、隐私协议网页、语言翻译、分级等等）
 ## 提审
 1. 创建app
-   - 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]
+   - 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]，应用名称、默认语言、应用或游戏、免费或付费根据证实情况填写。
    
-   [1]:<https://play.google.com/console/developers>
+    [1]:<https://play.google.com/console/developers>
     ![img.png](img.png)
 2. 开始
 3. 开始
