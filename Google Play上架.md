@@ -12,14 +12,12 @@
 - 上架市场需要的app资料（例如：APP名称、简介、分类、联系方式、隐私协议网页、语言翻译、分级等等）
 ## 提审
 ### 一、创建app
-   1. 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]，应用名称、默认语言、应用或游戏、免费或付费根据证实情况填写。
-    [1]:<https://play.google.com/console/developers>
-    ![img.png](img.png)
+#### 1. 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]，应用名称、默认语言、应用或游戏、免费或付费根据证实情况填写。[1]:<https://play.google.com/console/developers> 
+![img.png](img.png)
 ### 二、填写 app 信息
    ![img_1.png](img_1.png)
    **注：设置应用栏：应用访问权限、广告、 内容分级、 目标受众群体、 新闻应用、 新冠肺炎 (COVID-19) 接触者追踪应用和感染状况应用、 数据安全、 隐私权政策 全部必填项**
-
-   <font color=red size=20>1. 应用访问权限（根据实际情况填写即可）</font>
+####   1. 应用访问权限（根据实际情况填写即可）
     ![img_2.png](img_2.png)
    2. 广告（根据实际情况填写即可）
     ![img_3.png](img_3.png)
