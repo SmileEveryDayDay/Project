@@ -2,7 +2,7 @@
 
 ## 前期准备
 - jdk环境变量
-- [Play Encrypt Private Key (PEPK) 工具] [1]
+- ![Play Encrypt Private Key (PEPK) 工具] [1]
   [1]:https://www.gstatic.com/play-apps-publisher-rapid/signing-tool/prod/pepk.jar
 ## 提审
 ### 一、创建app
