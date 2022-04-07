@@ -11,6 +11,6 @@
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
-#### 2. 从 Java 密钥库导出密钥（）
-命令行：java -jar D:\Yalla\google_play_key\pepk.jar（pepk.jar存放的地址） --keystore=D:\AndroidStudioProject\yllgame\jks\yll_game_tech_mkw.jks（签名文件地址） --alias=ygt_mkw（签名文件别名） --output=D:\Yalla\google_play_key\ygt_mkw.zip（生成签名文件的路劲） --include-cert --encryptionkey=(encryptionkey)
+#### 2. 从 Java 密钥库导出密钥
+    命令行：java -jar D:\Yalla\google_play_key\pepk.jar（pepk.jar存放的地址） --keystore=D:\AndroidStudioProject\yllgame\jks\yll_game_tech_mkw.jks（签名文件地址） --alias=ygt_mkw（签名文件别名） --output=D:\Yalla\google_play_key\ygt_mkw.zip（生成签名文件的路劲） --include-cert --encryptionkey=(encryptionkey)
 ---
