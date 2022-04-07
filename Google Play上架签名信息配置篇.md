@@ -2,7 +2,8 @@
 
 ## 前期准备
 - jdk环境变量
-- [Play Encrypt Private Key (PEPK) 工具]:https://www.gstatic.com/play-apps-publisher-rapid/signing-tool/prod/pepk.jar
+- [Play Encrypt Private Key (PEPK) 工具][1]
+  [1]:https://www.gstatic.com/play-apps-publisher-rapid/signing-tool/prod/pepk.jar
 - 签名秘钥文件
 - 图片素材
   + PNG 或 JPEG 格式，大小不得超过 1 MB，尺寸为 512 x 512 像素的图标
