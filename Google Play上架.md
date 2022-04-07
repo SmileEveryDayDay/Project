@@ -15,7 +15,7 @@
    - 使用已经注册完成的 Google play 开发者账号登录[Google Play Console][1]
    
    [1]:<https://play.google.com/console/developers>
-   - 成功登录后，点击“在 Google play 中发布 android 应用 ”
+    ![img.png](img.png)
 2. 开始
 3. 开始
 4. 开始
