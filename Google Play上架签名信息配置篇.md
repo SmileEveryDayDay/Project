@@ -1,4 +1,4 @@
-# Google Play上架签名文件配置篇（ Java 密钥库导出并上传密钥）
+# Google Play上架安装包配置篇（ Java 密钥库导出并上传密钥）
 
 ## 前期准备
 - jdk环境变量
@@ -17,6 +17,9 @@
     java -jar D:\Yalla\google_play_key\pepk.jar（pepk.jar存放的地址） --keystore=D:\AndroidStudioProject\yllgame\jks\yll_game_tech_mkw.jks（签名文件地址） --alias=ygt_mkw（签名文件别名） --output=D:\Yalla\google_play_key\ygt_mkw.zip（生成签名文件的路劲） --include-cert --encryptionkey=(encryptionkey)
 ---
 ![img_3.png](img_3.png)
-#### 3. 添加测试用户
+#### 3. 添加测试用户（此用户仅仅是下载测试账号，非沙盒支付账号）
 ---
 ![img_4.png](img_4.png)
+#### 4. 提交AAB
+---
+![img_5.png](img_5.png)
