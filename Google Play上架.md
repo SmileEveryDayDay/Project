@@ -16,7 +16,9 @@
    
     [1]:<https://play.google.com/console/developers>
     ![img.png](img.png)
-2. 开始
+2. 填写 app 信息
+   ![img_1.png](img_1.png)
+   - 
 3. 开始
 4. 开始
 5. 开始
